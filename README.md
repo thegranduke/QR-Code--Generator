@@ -1,6 +1,6 @@
 QR Code Generator
 
-    Video Demo:
+    Video Demo: https://github.com/thegranduke/QR-Code--Generator/blob/main/How-to-use-QR-code-generator.webm
 
     Description:
 
