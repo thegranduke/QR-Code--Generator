@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QR Code Generator</title>
+  <link rel="stylesheet" href="popup.css">
+  <script src="qrcode.min.js"></script>
+  <script src="popup.js"></script>
+</head>
+<body>
+
+  <div class = "popup-container">
+    <h2 class="popup-title">Scan QR code</h2>
+    <div id="qrcode"></div>
+    <input id="current_url" class="input" type="text" value="Enter url"  />
+    <button id="generate-qrcode" class="button-primary">Generate</button>
+    <button id="download-qrcode" class="button-secondary"  >Download</button>
+  </div>
+  
+</body>
+</html>
